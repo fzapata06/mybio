@@ -32,7 +32,7 @@ a {
 
 .container {
 	margin: 0 auto;
-	width: 1024px;
+	width: 1150px;
 }
 
 #main-bio, #contact-info, #bio-image {
@@ -44,7 +44,7 @@ a {
 }
 
 #contact-info {
-	width: 30%
+	width: 30%;
 }
 
 #bio-image {
